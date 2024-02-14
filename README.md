@@ -6,35 +6,35 @@ Brick Breaker - is a game in which a ball must break all the bricks, when all th
 
 # Start
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Start.jpg?raw=true)
+![Start](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Start.jpg)
 
 # Tutorial
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Tutorial%201.jpg?raw=true)
+![Tutorial 1](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Tutorial%201.jpg)
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Tutorial%202.jpg?raw=true)
+![Tutorial 2](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Tutorial%202.jpg)
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Tutorial%203.jpg?raw=true)
+![Tutorial 3](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Tutorial%203.jpg)
 
 # Start Game
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Start%20Game.jpg?raw=true)
+![Start Game](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Start%20Game.jpg)
 
 # Animation
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Animation.jpg?raw=true)
+![Animation](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Animation.jpg)
 
 # Pause
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Pause.jpg?raw=true)
+![Pause](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Pause.jpg)
 
 # Game Over
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Game%20Over.jpg?raw=true)
+![Game Over](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Game%20Over.jpg)
 
 # Win
 
-![](https://github.com/TiberiuTech/Photos/blob/main/Photos/Win.jpg?raw=true)
+![Win](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Win.jpg)
 
 # Demo 
 
