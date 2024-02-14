@@ -2,7 +2,7 @@
 
 # About
 
-Brick Breaker - is a game in which a ball must break all the bricks, when all the bricks were destroyed the game was won. With the help of the tutorial you can understand how the game works.
+Brick Breaker - is a game in which a ball must break all the bricks, when all the bricks were destroyed the game was won, with the help of the tutorial you can understand how the game works.
 
 # Start
 
