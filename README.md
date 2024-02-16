@@ -4,11 +4,7 @@
 
 Brick Breaker - is a game in which a ball must break all the bricks, when all the bricks were destroyed the game was won, with the help of the tutorial you can understand how the game works.
 
-# Start
-
 ![Start](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Start.jpg)
-
-# Tutorial
 
 ![Tutorial 1](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Tutorial%201.jpg)
 
@@ -16,23 +12,13 @@ Brick Breaker - is a game in which a ball must break all the bricks, when all th
 
 ![Tutorial 3](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Tutorial%203.jpg)
 
-# Start Game
-
 ![Start Game](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Start%20Game.jpg)
-
-# Animation
 
 ![Animation](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Animation.jpg)
 
-# Pause
-
 ![Pause](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Pause.jpg)
 
-# Game Over
-
 ![Game Over](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Game%20Over.jpg)
-
-# Win
 
 ![Win](https://github.com/TiberiuTech/Brick-Breaker/blob/main/Brick-Breaker/Win.jpg)
 
