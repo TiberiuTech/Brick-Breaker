@@ -24,6 +24,6 @@ Brick Breaker - is a game in which a ball must break all the bricks, when all th
 
 # Demo 
 
-[Demo](https://drive.google.com/file/d/1bug4n_T469GybKe6Ey0B1zhOWvXYFF5T/view?usp=sharing )
+[Demo Video](https://drive.google.com/file/d/1bug4n_T469GybKe6Ey0B1zhOWvXYFF5T/view?usp=sharing )
 
 
